@@ -2,6 +2,8 @@
 
 This repo contains a PDF of the slide deck presented by Chris Sandulow ([<img src="https://github.com/favicon.ico" width="15">](https://github.com/jfalken)) and Andreas Nilsson ([<img src="https://github.com/favicon.ico" width="15">](https://github.com/agralius)) at [BSides NOLA 2015](http://www.securitybsides.com/w/page/91550808/BSidesNOLA%202015).
 
+The slides can be downloaded [here](https://github.com/jfalken/Starting_Security/raw/master/NOLA_BSides_SecStartup.pdf).
+
 ## Details
 
 The slides are intended to be used in combination with a spoken presentation. While it is possible to follow along with just the deck, more content is needed.
